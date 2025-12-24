@@ -14,12 +14,12 @@ This code accompanies our research paper:
 Please cite our work if you find this repository useful in your research:
 
 ```bibtex
-@article{warren2025deepabAD,
+@article{hhliulabnhri2025ablmad,
   title   = {Deep Learning on Antibody Repertoires Enables Alzheimer's Disease Classification},
   author  = {Chiu-Wang Tseng and Ya-Hui Chang and Hui-Chung Kuan and Yu Sun and Cheng-Ying Chou and Hong-Hsing Liu},
   journal = {TBD},
   year    = {TBD},
-  note    = {Code available at \url{https://github.com/WarrenTS/alzheimer_antibody_cls}}
+  note    = {Code available at \url{https://github.com/HHLiuLab-NHRI/AbLM-AD-Classifier}}
 }
 ```
 ---
@@ -46,10 +46,10 @@ We will use the official **Hugging Face PyTorch GPU image** as our base: `docker
 
 #### 1. Clone the Repository
 
-First, clone this repository to your local machine. You must choose a path (e.g., `/home/user/projects/alzheimer_antibody_cls`) and replace `/YOUR/MOUNTED/HOST/PATH` with this actual path in the following steps.
+First, clone this repository to your local machine. You must choose a path (e.g., `/home/user/projects/AbLM-AD-Classifier`) and replace `/YOUR/MOUNTED/HOST/PATH` with this actual path in the following steps.
 
 ```bash
-git clone https://github.com/WarrenTS/alzheimer_antibody_cls /YOUR/MOUNTED/HOST/PATH
+git clone https://github.com/HHLiuLab-NHRI/AbLM-AD-Classifier /YOUR/MOUNTED/HOST/PATH
 ```
 
 #### 2. Start the Docker Environment
