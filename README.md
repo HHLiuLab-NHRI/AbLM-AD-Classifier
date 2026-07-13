@@ -1,4 +1,4 @@
-# Deep Learning on Antibody Repertoires Enables Alzheimer's Disease Classification
+# Language Modeling of Antibody Repertoires Identifies Blood-Accessible Immune Signatures of Alzheimer’s Disease
 
 This repository provides a modular pipeline for antibody sequence analysis using pretrained antibody language models.  
 It is part of our research project on using deep learning for Alzheimer's disease (AD) classification from antibody repertoires.
@@ -6,7 +6,7 @@ It is part of our research project on using deep learning for Alzheimer's diseas
 
 This code accompanies our research paper:
 
-> **[Deep Learning on Antibody Repertoires Enables Alzheimer's Disease Classification]**  
+> **[Language Modeling of Antibody Repertoires Identifies Blood-Accessible Immune Signatures of Alzheimer’s Disease]**  
 > Authors: Chiu-Wang Tseng, Ya-Hui Chang, Hui-Chung Kuan, Yu Sun, Cheng-Ying Chou, Hong-Hsing Liu  
 > Journal [TBD], Year [TBD] 
 > [Link to the paper](https://doi.org/XXXXXXX)
