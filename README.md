@@ -15,7 +15,7 @@ Please cite our work if you find this repository useful in your research:
 
 ```bibtex
 @article{hhliulabnhri2025ablmad,
-  title   = {Deep Learning on Antibody Repertoires Enables Alzheimer's Disease Classification},
+  title   = {Language Modeling of Antibody Repertoires Identifies Blood-Accessible Immune Signatures of Alzheimer’s Disease},
   author  = {Chiu-Wang Tseng and Ya-Hui Chang and Hui-Chung Kuan and Yu Sun and Cheng-Ying Chou and Hong-Hsing Liu},
   journal = {TBD},
   year    = {TBD},
