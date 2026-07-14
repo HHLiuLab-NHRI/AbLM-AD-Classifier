@@ -82,10 +82,8 @@ We recommend referring to [**AntiBERTa**](https://github.com/alchemab/antiberta)
 ---
 ## License
 
-The default `LICENSE` file in this repository is a placeholder for **academic / non‑commercial use** only.  
-
-You can refine or replace it later (for example to a more formal institutional academic license, or another license of your choice).
-
+This repository is available for academic research and non-commercial use only.
+See the [LICENSE](LICENSE) file for the applicable terms and restrictions.
 
 
 
