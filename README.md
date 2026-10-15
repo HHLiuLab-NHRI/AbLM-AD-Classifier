@@ -9,7 +9,7 @@ This code accompanies our research paper:
 > **[Language Modeling of Antibody Repertoires Identifies Blood-Accessible Immune Signatures of Alzheimer’s Disease]**  
 > Authors: Chiu-Wang Tseng, Ya-Hui Chang, Hui-Chung Kuan, Yu Sun, Cheng-Ying Chou, Hong-Hsing Liu  
 > Journal [TBD], Year [TBD] 
-> Publication details will be updated upon publication.# [Link to the paper](https://doi.org/XXXXXXX)
+> Publication details will be updated upon publication.
 
 Please cite our work if you find this repository useful in your research:
 
